@@ -17,3 +17,7 @@
 4. Imprime el estado actual de la bitácora:
    - Total de eventos restantes
    - Cuál es ahora el evento en la cima
+  
+ 5.Compilar y Ejecutar:
+   - javac src/Main.java
+   - java -cp src Main
